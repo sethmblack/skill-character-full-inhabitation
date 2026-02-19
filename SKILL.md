@@ -4,7 +4,7 @@ description: Become a character completely - not play them, but inhabit them so 
 license: MIT
 metadata:
   author: Seth Black
-  version: 1.0.3567
+  version: 1.0.3568
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - character
